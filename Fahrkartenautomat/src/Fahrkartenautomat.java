@@ -6,7 +6,7 @@ class Fahrkartenautomat {
 		System.out.println("Herzlich Wilkommen!\n");
 	}
 	
-	//hk
+	
 	
 	//Kartenauswahl und Ticketanzahl
 	public static int fahrkartenbestellungErfassen(){
