@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Fahrkartenautomat {
-	
+	//Hello World
 	public static void begruessung() {
 		System.out.println("Herzlich Wilkommen!\n");
 	}
