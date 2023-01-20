@@ -1,2 +1,2 @@
 # LF05_FIC21_Till_Guenther
-Schul repository
+Guten Tag wilkommen zu dem besten Fahrkartenautomaten EUW!
